@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "lion": {
+    "x": 30,
+    "y": 58,
+    "size": 116
+  },
+  "monkey": {
+    "x": 66,
+    "y": 61,
+    "size": 105
+  },
+  "rabbit": {
+    "x": 83,
+    "y": 55,
+    "size": 92
+  },
+  "global": 100,
+  "brightness": 140
+}
